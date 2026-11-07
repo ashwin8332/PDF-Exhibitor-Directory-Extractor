@@ -3,7 +3,6 @@
 Extract exhibitor contact and directory details from trade-show PDF guides and export them to a clean, formatted Excel workbook. Built and tested on the **Aahar 2025 Fair Guide** (628 pages, 1,562 exhibitors), and designed to work with other digital exhibitor guides too.
 
 **Version:** 3.0.0 · **Author:** Ashwin Vincent · [GitHub](https://github.com/ashwin8332) · **License:** MIT
-
 ---
 
 ## Table of Contents
